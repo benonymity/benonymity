@@ -2,7 +2,7 @@
 
 I like code, selfhosting, audiobooks, and learning new things.
 
-![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=benonymity&show_icons=true&theme=dark)
+![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=benonymity&show_icons=true&theme=dark&count_private=true)
 
 **Opinions**:
 - Dark theme always
