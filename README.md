@@ -20,4 +20,6 @@ I like code, selfhosting, audiobooks, and learning new things.
 - I use Neovim to write code, which means I'm a real programmer! ...right?
 - Docker is INCREDIBLE!!
 
-![Ben's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=benonymity&theme=dark)
+![Ben's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=benonymity&theme=dark&layout=compact)
+
+![Ben's Github Streak](https://streak-stats.demolab.com/?user=benonymity&theme=dark)
