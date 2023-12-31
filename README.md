@@ -7,9 +7,9 @@
 </br>
 </br>
 <details>
-  <summary>My Statistics</summary>
+  <summary>Fun Stats</summary>
   
-  ![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=benonymity&show_icons=true&theme=dark&count_private=true)
+  ![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=benonymity&show_icons=true&theme=dark&count_private=true&rank_icon=github)
   
   ![Ben's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=benonymity&theme=dark&layout=compact)
   
