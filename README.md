@@ -9,7 +9,7 @@
 <details>
   <summary>Fun Stats</summary>
   
-  ![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=benonymity&show_icons=true&theme=dark&count_private=true&rank_icon=github)
+  ![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=benonymity&show_icons=true&theme=dark&count_private=true&rank_icon=github&include_all_commits=true&ring_color=ffbf00)
   
   ![Ben's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=benonymity&theme=dark&layout=compact)
   
